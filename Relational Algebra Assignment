@@ -32,7 +32,7 @@ Color = {
 Vehicle = {
   vehicle_id:number, fk_make_id:number, fk_model_id:number, year:string
 	1,1,1,'1985'
-	2,4,4,'1986'
+	2,5,4,'1986'
 	3,2,2,'1987'
 	4,6,5,'2000'
 }
